@@ -42,9 +42,6 @@ android/app/src/main/res/drawable-*
 node_modules/
 npm-debug.log
 
-# TypeScript compile output
-lib/
-
 # BUCK
 buck-out/
 \.buckd/
